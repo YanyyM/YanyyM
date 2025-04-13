@@ -11,15 +11,10 @@ I'm a data science student with a passion for turning data into insights. I enjo
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YanyyM&layout=compact&theme=radical&hide_border=false&card_width=320" height="150" alt="Top Languages" />
 </div>
 
-
-<hr style="border: none; height: 1px; background: #e0cce7; margin: 40px 0;" />
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YanyyM/YanyyM/main/header.jpeg" alt="Featured Projects" width="600 />
+  <img src="https://raw.githubusercontent.com/YanyyM/YanyyM/main/header.jpeg" alt="Featured Projects" width="600" />
 </p>
 
-
-##
 
 - **🛍 Retail Sales Analysis**  
   *SQL* | Explores, cleans, and analyzes retail sales data using SQL techniques commonly used in real-world data analyst roles.  
