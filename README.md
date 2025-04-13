@@ -18,6 +18,9 @@ I'm a data science student with a passion for turning data into insights. I enjo
   <img src="https://raw.githubusercontent.com/YanyyM/YanyyM/main/header.jpeg" alt="Featured Projects" width="600 />
 </p>
 
+
+##
+
 - **🛍 Retail Sales Analysis**  
   *SQL* | Explores, cleans, and analyzes retail sales data using SQL techniques commonly used in real-world data analyst roles.  
   The project includes setting up a retail sales database, performing exploratory data analysis (EDA), and answering business questions through queries.  
