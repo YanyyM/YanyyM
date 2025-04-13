@@ -1,10 +1,26 @@
 <h2 align="left">👋 Hi there! I'm Yany</h2>
-<p> I'm a data science student with a passion for turning data into insights. I enjoy working on Python, SQL, and data visualization projects—especially ones that involve real-world topics like finance, public health, or social trends. Always learning, always building.</p>
-<p>Let’s connect and grow together!</p>
+
+<p align="left">
+I'm a data science student with a passion for turning data into insights. I enjoy working on Python, SQL, and data visualization projects—especially ones that involve real-world topics like finance, public health, or social trends. Always learning, always building.<br><br>Let’s connect and grow together!
+</p>
+
 
 ###
 
-<img align="right" height="90" src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQ1NjYzODQsIm5iZiI6MTc0NDU2NjA4NCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDEzVDE3NDEyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEwNzAzYzY1NTVjNDY1ZDZiYThkMjUyODRhMDYwYmFmZjViZjk0OGE1NTVhNTY1MTBlOWY1YjI0OTU0MTAwYWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.b8xbZig1jOpxme42TaEhwfqcSGPEidSU-neorPUV4EM"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YanyyM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YanyyM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+### 📌 Featured Projects
+
+- **🛍 Retail Sales Analysis**  
+  *SQL* | Explores, cleans, and analyzes retail sales data using SQL techniques commonly used in real-world data analyst roles.  
+  The project includes setting up a retail sales database, performing exploratory data analysis (EDA), and answering business questions through queries.  
+  👉 [View Project](https://github.com/YanyyM/sql_retail_sale_analysis)
+
 
 ###
 
@@ -25,11 +41,25 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/yannara-martinez" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:yannara.martinez@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
 </div>
+
+###
+
+<br clear="both">
+
+<br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBlOTNibmR5dGl5NHF4NzFxMnYzMXNsNmp0bHlnbWltaGF2aDl1diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bmQBu3aSF0DxadphkG/giphy.gif" width="400" alt="Data analysis gif" />
+  <br>
+  <i>“Making data-driven decisions look good 💁‍♀️📊”</i>
+</p>
+
 
 ###
