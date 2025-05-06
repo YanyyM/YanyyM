@@ -23,7 +23,7 @@ I'm a data science student with a passion for turning data into insights. I enjo
   The project includes setting up a retail sales database, performing exploratory data analysis (EDA), and answering business questions through queries.  
   👉 [View Project](https://github.com/YanyyM/sql_retail_sale_analysis)
 
-- **🏀 College Basketball Analysis**
+- **🏀 College Basketball Analysis** 
   *Python* | Explores, analysizes and visualizes NCAA college basketball team statistics.
     The project expplore the dataset using different libraries suchs as scipy, matplotlib, pandas, numpy, and seaborn to interpret and answer questions.
   👉 [View Project](https://github.com/YanyyM/college-basketball-analysis.git)
