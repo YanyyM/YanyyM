@@ -25,9 +25,15 @@ I'm a data science student with a passion for turning data into insights. I enjo
 
 - **🏀 College Basketball Analysis**
   
-  *Python* | Explores, analysizes and visualizes NCAA college basketball team statistics.
-    The project expplore the dataset using different libraries suchs as scipy, matplotlib, pandas, numpy, and seaborn to interpret and answer questions.
+  *Python* | Explores, analyzes and visualizes NCAA college basketball team statistics.
+    The project explore the dataset using different libraries suchs as scipy, matplotlib, pandas, numpy, and seaborn to interpret and answer questions.
   👉 [View Project](https://github.com/YanyyM/college-basketball-analysis.git)
+
+- **🍎 Apple Store Data Analysis**
+  **SQL + Tableau** | Explore, analyzes and visualizes key bussines metrics.
+  This project uses **SQL** and **Tableau** to analyze Apple product sales, customer behavior, stock performance, and payment trends.
+  👉 [View Project](https://github.com/YanyyM/Apple_Store_Data_Analysis.git)
+
 
 <hr style="border: ![header](https://github.com/user-attachments/assets/84e43b10-56c6-483a-8b53-7eef1398a7e5)
 none; height: 1px; background: #e0cce7; margin: 40px 0;" />
