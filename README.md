@@ -30,6 +30,7 @@ I'm a data science student with a passion for turning data into insights. I enjo
   👉 [View Project](https://github.com/YanyyM/college-basketball-analysis.git)
 
 - **🍎 Apple Store Data Analysis**
+  
   **SQL + Tableau** | Explore, analyzes and visualizes key bussines metrics.
   This project uses **SQL** and **Tableau** to analyze Apple product sales, customer behavior, stock performance, and payment trends.
   👉 [View Project](https://github.com/YanyyM/Apple_Store_Data_Analysis.git)
