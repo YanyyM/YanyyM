@@ -1,7 +1,7 @@
 <h2 align="left">👋 Hi there! I'm Yany</h2>
 
 <p align="left">
-I'm a data science student with a passion for turning data into insights. I enjoy working on Python, SQL, and data visualization projects—especially ones that involve real-world topics like finance, public health, or social trends. Always learning, always building.<br><br>Let’s connect and grow together!
+I'm a data science student with a passion for turning data into insights. I enjoy working on Python, SQL, and data visualization projects, especially ones that involve real-world topics like finance, public health, or social trends. Always learning, always building.<br><br>Let’s connect and grow together!
 </p>
 
 <hr style="border: none; height: 1px; background: #e0cce7; margin: 40px 0;" />
